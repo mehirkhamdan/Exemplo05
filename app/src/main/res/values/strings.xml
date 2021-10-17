@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio05</string>
+    <string name="finalizado">Finalizado</string>
+    <string name="progresso">Progresso</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="fim">Fim</string>
+</resources>
